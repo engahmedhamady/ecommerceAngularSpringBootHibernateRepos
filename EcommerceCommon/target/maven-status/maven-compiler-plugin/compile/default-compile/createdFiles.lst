@@ -1,0 +1,10 @@
+com\store\beans\OrderitemsBean.class
+com\store\beans\CategoryBean.class
+com\store\beans\ShipperaddressBean.class
+com\store\beans\ProductsBean.class
+com\store\beans\PurchaseBean.class
+com\store\beans\BillingaddressBean.class
+com\store\beans\CustomersBean.class
+com\store\beans\CountryBean.class
+com\store\beans\OrdersBean.class
+com\store\beans\StateBean.class
